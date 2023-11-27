@@ -1,3 +1,5 @@
+/* eslint-disable linebreak-style */
+// eslint-disable-next-line import/prefer-default-export
 export function taskFirst() {
   const task = 'I prefer const when I can.';
   return task;
