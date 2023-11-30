@@ -1,3 +1,5 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable eol-last */
 import ClassRoom from './0-classroom';
 
 export default function initializeRooms() {
