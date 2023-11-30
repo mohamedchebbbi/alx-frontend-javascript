@@ -1,3 +1,5 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable eol-last */
 export default class ClassRoom {
 
     constructor(maxStudentsSize) {
