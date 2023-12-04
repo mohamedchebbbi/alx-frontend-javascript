@@ -4,6 +4,6 @@ export default function getListStudentIds(lst) {
     if (Array.isArray(lst)) {
       return lst.map((obj) => obj.id);
     }
-  
     return [];
-  }
+    // eslint-disable-next-line eol-last
+}
